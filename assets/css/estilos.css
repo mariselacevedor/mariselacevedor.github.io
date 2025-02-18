@@ -28,4 +28,13 @@ body {
     }
   
   }
+
+  .btn{
+    background-color: #ff69b4; /* Rosado intenso */
+    color: white; /* Texto blanco */
+    border: none; /* Sin bordes */
+    padding: 10px 20px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambiar el cursor al pasar el mouse */
+}
   
